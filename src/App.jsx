@@ -11,8 +11,8 @@ function App() {
 
   return (
     <>
-    {/* <StopWatch/> */}
-      {/* <Tasks /> */}
+    <StopWatch/>
+      <Tasks />
       <ClassBased />
     </>
   )
